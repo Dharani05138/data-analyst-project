@@ -1,10 +1,10 @@
-# data-analyst-project
-identifying customer segments
+# Data-Analyst-Project
+Identifying Customer Segments
 📊 Project: Identifying Customer Segments in Data Analytics
 
 1. Introduction
 
-Customer segmentation is the process of dividing customers into distinct groups based on common characteristics such as demographics, behavior, interests, or purchasing patterns. The goal is to understand customers better and personalize strategies for marketing, sales, and service.
+   Customer segmentation is the process of dividing customers into distinct groups based on common characteristics such as demographics, behavior, interests, or purchasing patterns. The goal is to understand customers better and personalize strategies for marketing, sales, and service.
 
 For example:
 	•	A retail store may segment customers into “bargain hunters”, “loyal premium buyers”, and “occasional spenders”.
@@ -95,8 +95,7 @@ Example Segments:
 
 10. Tools & Technologies
 	•	Languages: Python (Pandas, Scikit-learn, Matplotlib, Seaborn), R.
-	•	Visualization Tools: Tableau, Power BI.
-	•	Big Data Tools: Spark, Hadoop (for large datasets).
+	•	Visualization Tools: Tableau, Power BI,SQL,Excel.
 
 ⸻
 
@@ -110,4 +109,4 @@ Example Segments:
 
 12. Conclusion
 
-Customer segmentation is a powerful data analytics project that helps businesses understand their customers in depth. By identifying different customer groups, companies can design targeted campaigns, improve sales, and enhance customer satisfaction.
+    Customer segmentation is a powerful data analytics project that helps businesses understand their customers in depth. By identifying different customer groups, companies can design targeted campaigns, improve sales, and enhance customer satisfaction.
